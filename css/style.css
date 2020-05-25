@@ -111,6 +111,7 @@ body {
     right: 0;
     z-index: -1;
   }
+
   
   .home-page-circle-3::before {
     content: '';
